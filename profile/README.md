@@ -15,9 +15,9 @@ Our activities include mentoring students through a series of workshops in diffe
 
 
 ## More About Our Activities:
- ![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png) [1]
-![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png) [2]
-![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png) [3]
+ [[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png)[1]
+![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png)[2]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png)[3]
 
  [1]: (https://www.facebook.com/IEEE.UMBB?_rdc=1&_rdr)
 
