@@ -19,9 +19,9 @@ Our activities include mentoring students through a series of workshops in diffe
 /
 
 
-[Facebook](https://www.facebook.com/IEEE.UMBB?_rdc=1&_rdr) [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png)
+ [![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png) [Facebook](https://www.facebook.com/IEEE.UMBB?_rdc=1&_rdr)
 
-[Instagram] (https://www.instagram.com/accounts/login/?next=/ieee.sb_boumerdes_university/)[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram)) [Instagram]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png)[Instagram](https://www.instagram.com/accounts/login/?next=/ieee.sb_boumerdes_university/) 
 
-[Linkedin] (https://www.linkedin.com/company/ieee-student-branch-university-of-boumerdes/mycompany/)[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))] [Linkedin]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png)[Linkedin](https://www.linkedin.com/company/ieee-student-branch-university-of-boumerdes/mycompany/)
 
